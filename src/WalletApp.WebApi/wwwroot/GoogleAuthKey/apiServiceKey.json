@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "WalletApp-388413",
+  "private_key_id": "685a9a78769fe7dd0459339d3f1feba0fd56f6b4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCl1N+4GncZBBdi\nw215a+AICEXciev7A/yDikKPjGAESi8O7O+flQJ7vBfqxLsg/hKcvKIKHfxkbWd0\n/3AG9p77hT4VbGz0yfy5X+tsKOHLBNrFt0WiTVig6z+d9XOXSlqhJEn3w9dQeFm2\n9mYQuL6cCeFZOVKSrpCelMhNsyzyK2p2hafCPDZHxI/zSggbb1Lv2l1+mzdmM1C5\nUs0wvmrbCgSXeTFw/dT84gD4pJyY+x5Db4VWLH7OKu52zK2Ruw1s0N/hQ3hJZCPz\nTqQxsxOOjHW9aaDM4oJLrgTLXTNOb2kyMiIngXNmuxj4Deo5HBzQZBeLD+1TVq+4\nrnf1JtD9AgMBAAECggEALS4/27l+LFckhfiHuZat/ZI/cnQzUnsGD9KaCuEsgc6y\nXocoTBq9h/e5rnF2KGmAqaptHYOI8dWq48H6hDMqIo3tWcnmL5VeoSTkj93dksIa\nVtb1hmA7XvBpL0CiAxyzb4bjDjmRzq9ThhlAupqS+BFrD7Oh7yvXZBVWM3E3NC02\nWE+ay+hP6CuNcnYK2ceaPO6UzOVnQrc2X59+q4HYE1ugYm9A/qorV5OFeSrn7aLm\nzs0WCwOBSxmYHOBYzk1MUtLbZnG0RLdaG3CoJOzZU0qfs5prBjsm5Uvee7+V1hUm\nQW1Ujj3AD5E6Xd0mBFcq6xevaKaPymHLBcwCwX22EwKBgQDfpTnqnblINuGmemvQ\nUTAkYfkx99HWDiOr/KScZbDklOxOP0/zkW1zo0tvfgld8buSPXMlzlSBVe2poVcZ\nryRkTklB/MLgnKymq5zCC1bCKiVYfpHLjpR8gqXyj+eMEkIxveFRdQHdcvDDOFwH\nj3X18BmGNOU9MfG/CKegB+gr1wKBgQC90n5l8WA2/F7I5cZDUd06ogauJ3ZJO+ys\nasJF4iK+F+WV2upb9hmS8HCyDsqg0gEqhQBs+kToBQE2xskeXf0DUEcUzyU3uwCO\nDO/OGRHs17JzJO8QlVntjH0H82KIgf4Oa3uP65P57ABF3JsZEq58PJ9D8jNBYfQ8\nYyn0beavSwKBgQC9B2lxfYiamhCV5slz1PuM9OZsrptEgsTx3GPB8U3Xlmw5IthP\n9a5+XBopjW0bY3N4AsptvPy+KMPtaXo2MkvfIDBZPuv0b1ias1iWxoC5MmhIaQqP\n895bcw4SfEFoqhIa+vQUJoLCCyGmz98xYLeCfUMFpXXRCILdRdJwt94sFwKBgFWk\n4DScmD2W1iksSqzbBcbLjdoLofne2KTeMjMXmXdNDt/y+qRtQBKk+yPLOq8esTn+\n8jc5H9fTUj3lqJ5T57EUCk4gO/mOHOz6d0P02bqTg0ciVd6UlBNyvILW1BElHXxi\nEEjaEFTFn0XmB/BjFmilbXJZl7ibOnf4gdhvsZJLAoGBAMW/qoJbR49QEqWNIWjP\nW+ngFreEnXd+KDPInhbDfSBMKx1rjEkxioMt1heuSjRNC75yifumNMIWmNXLvxIi\nkjMqevGeAQHB7+vdJ2g9a78VImM0PTf8o1Tyi14xbCfr7P+Wb9FzJ8+sjlSCb3C3\nWlai5WH+/P+Ny2hbp1bvMAtv\n-----END PRIVATE KEY-----\n",
+  "client_email": "WalletApp@WalletApp-388413.iam.gserviceaccount.com",
+  "client_id": "112060162718851575285",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/WalletApp%40WalletApp-388413.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
